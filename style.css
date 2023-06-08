@@ -1,0 +1,83 @@
+* {
+  font-family: "Geologica", sans-serif;
+  margin-left: 0;
+}
+
+.Logo {
+  padding-left: 20px;
+}
+
+.navbar ul {
+  font-family: "Geologica", sans-serif;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  float: left;
+  padding: 25px;
+}
+a {
+  color: #000;
+  text-decoration: none;
+}
+
+.right {
+  margin-left: 35%;
+  padding-top: 25px;
+}
+
+.contact {
+  float: right;
+  margin-right: 25px;
+  background-color: #01caec;
+  color: aliceblue;
+  border-radius: 320%;
+}
+
+.contact a {
+  color: aliceblue;
+}
+
+.Home-img {
+  position: relative;
+}
+
+.Home-img img {
+  margin-left: 50%;
+  height: 450px;
+  width: 600px;
+}
+
+.home-text {
+  margin-top: 5%;
+  font-size: 35px;
+}
+
+.home-text span {
+  color: #36e2ff;
+  font-size: 30px;
+}
+.home-text h2 {
+  font-size: 25px;
+}
+
+.home-text p {
+  font-size: 15px;
+  font-family: "Montserrat", serif;
+}
+.container {
+  display: flex;
+  float: left;
+}
+.links {
+  position: absolute;
+  top: 25px;
+  right: 5%;
+}
+.links li {
+  list-style-type: none;
+  font-size: 25px;
+  padding: 20px;
+}
