@@ -1,1 +1,1 @@
-#[Live link](https://gokulnath-rs.netlify.app/)
+[Live link](https://gokulnath-rs.netlify.app/)
