@@ -1,5 +1,5 @@
 * {
-  font-family: "Geologica" , sans-serif;
+  font-family: "Geologica", sans-serif;
   margin-left: 0;
 }
 
@@ -80,4 +80,11 @@ a {
   list-style-type: none;
   font-size: 25px;
   padding: 20px;
+}
+
+.tech-icons {
+  list-style-type: none;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
 }
